@@ -29,5 +29,5 @@ Highly motivated Software Engineer with over 2 years of experience specializing 
 ---
 
 ### 📩 Connect with me:
-- 💼 **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com) *(သင့် LinkedIn link ရှိရင် ပြောင်းထည့်ပါ)*
+- 💼 **LinkedIn:** www.linkedin.com/in/kaung-htet-paing-b4b672343
 - 📧 **Email:** kaunghtet2822@gmail.com
