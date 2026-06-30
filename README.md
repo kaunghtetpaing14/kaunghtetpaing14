@@ -43,8 +43,8 @@
 ### 📊 Git Metrics & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaunghtetpaing14&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Kaung's GitHub Stats" width="49.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaunghtetpaing14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49.5%" />
+  <img src="https://github-readme-stats-two.vercel.app/api?username=kaunghtetpaing14&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Kaung's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=kaunghtetpaing14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
 </p>
 
 <p align="center">
