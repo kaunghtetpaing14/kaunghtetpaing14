@@ -1,19 +1,21 @@
-# 👋 Hi, I'm Kaung Htet Paing
-### 🚀 Backend Engineer & System Architect
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=500&color=3A86FF&center=true&vCenter=true&width=700&height=60&lines=KAUNG+HTET+PAING" alt="Name Animation" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&color=94A3B8&center=true&vCenter=true&width=700&height=40&lines=Building+Robust+Backend+Systems...;%E2%9A%A1%EF%B8%8F+Optimizing+Databases+%26+Search" alt="Tagline Animation" />
+</p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3A86FF&vCenter=true&width=450&lines=Building+Robust+Backends;Graph+Database+Enthusiast;Optimizing+Search+Engines" alt="Typing SVG" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaunghtetpaing14&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" alt="Activity Graph Animation" />
 </p>
 
 ---
 
-### 👤 About Me
+### 👤 Profile Overview
 
-> Highly motivated Software Engineer with over 2 years of professional experience. I specialize in designing scalable backend architectures, navigating complex data relationships with graph databases, and fine-tuning search performance.
+> Highly motivated Software Engineer with over 2 years of professional experience specializing in Java, Python, and Laravel. Passionate about system performance, graph databases, and infrastructure architecture.
 
-- 🛠️ Currently deep-diving into **Site Reliability Engineering (SRE)** and infrastructure efficiency.
-- 💻 Crafting clean code on **macOS**.
-- 📬 Reach me instantly via the links below!
+- 🛠️ Currently deep-diving into **Site Reliability Engineering (SRE)** & system scalability.
+- 💻 Designing and deploying high-throughput backend applications.
 
 ---
 
@@ -41,10 +43,10 @@
 ### 📊 Git Metrics & Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaunghtetpaing14&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Kaung's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaunghtetpaing14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaunghtetpaing14&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Kaung's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaunghtetpaing14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaunghtetpaing14&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaunghtetpaing14&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
