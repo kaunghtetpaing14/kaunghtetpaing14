@@ -42,10 +42,10 @@
 
 ### 📊 Git Metrics & Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-alpha.vercel.app/api?username=kaunghtetpaing14&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" alt="Kaung's GitHub Stats" />
   <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=kaunghtetpaing14&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaunghtetpaing14&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
