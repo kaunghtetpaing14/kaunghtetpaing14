@@ -42,11 +42,11 @@
 
 ### 📊 Git Metrics & Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaunghtetpaing14&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Kaung's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaunghtetpaing14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaunghtetpaing14&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Kaung's GitHub Stats" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaunghtetpaing14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49.5%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaunghtetpaing14&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaunghtetpaing14&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
 </p>
