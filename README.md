@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=500&color=3A86FF&center=true&vCenter=true&width=700&height=60&lines=KAUNG+HTET+PAING" alt="Name Animation" />
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&color=94A3B8&center=true&vCenter=true&width=700&height=40&lines=Building+Robust+Backend+Systems...;%E2%9A%A1%EF%B8%8F+Optimizing+Databases+%26+Search" alt="Tagline Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&color=94A3B8&center=true&vCenter=true&width=700&height=40&lines=Building+Robust+Backend+Systems...;" alt="Tagline Animation" />
 </p>
 
 <p align="center">
